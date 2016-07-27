@@ -1,6 +1,5 @@
 Developer
 =========
 
-iOS course
+Open Developer area to start a new project.
 
-Contains code and projects created during the Stanford free iOS iphone and ipad developer course.
